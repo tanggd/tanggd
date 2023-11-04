@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm tanggd, a passionate self-taught frontEnd web developer from China.
+I'm tanggd, a passionate self-taught web developer from China.
 
 **Languages and Tools:**  
 
