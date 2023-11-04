@@ -17,7 +17,7 @@ I'm tanggd, a passionate self-taught frontEnd web developer from China.
 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanggd" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanggd&layout=compact&theme=tokyonight" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanggd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
